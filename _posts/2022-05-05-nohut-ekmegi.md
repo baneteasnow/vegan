@@ -15,7 +15,7 @@ Malzemeler:
 - kırmızı biber (optional)
 - kimyon (optional)
 
-Yapılışı
+Yapılışı:
 - Birebir ölçü nohut ve suyu derin bir kapta karıştırın. Tuz, karabiber ve baharatları ekleyin. Bu karışımı iyice çırpın.
 - Teflon tavayı ocakta iyice ısıtın. 
 - Hazırladığınız karışımdan tavaya dökün. Karışım yavaşça tavayı kaplayacaktır.
@@ -23,7 +23,12 @@ Yapılışı
 - Ardından bir spatula ile tersini çevirin ve pişirmeye devam edin.
 - Tavadan kolaylıkla ayrıldığında pişmiş demektir.
 
+
 Notlar:
 - Daha yumuşak bir ekmek elde etmek için hazırladığınız bu karışımı 30 dakika üstünü örterek bekletebilirsiniz.
+- Elinizdeki karışımı bitirene kadar pişirmeye devam edebilir ya da bu karışımı 2 güne kadar buzdolabında saklayarak ekmeğinizi taze olarak pişirip servis etmeyi tercih edebilirsiniz.
+- Pişmiş ekmekleri buzdolabında 2-3 güne kadar saklayabilirsiniz.
+- Aynı karışıma maydonoz veya tercihe göre önceden pişirilmiş mantar ekleyerek yapabilirsiniz.
+- Eğer tavanız teflon değilse, karışıma 1 yemek kaşığı yağ eklemeyi ve yapışmayı engellemek için her seferinde tavayı tekrar yağlamayı unutmayın.
 
 <i>Afiyet olsun!</i>
