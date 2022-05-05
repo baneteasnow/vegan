@@ -16,7 +16,7 @@ Malzemeler:
 - kimyon (optional)
 
 Yapılışı
-- Birebir ölçü nohut ve suyu derin bir kapta karıştırın, Tuz, karabiber ve baharatları ekleyin. Bu karışımı iyice çırpın.
+- Birebir ölçü nohut ve suyu derin bir kapta karıştırın. Tuz, karabiber ve baharatları ekleyin. Bu karışımı iyice çırpın.
 - Teflon tavayı ocakta iyice ısıtın. 
 - Hazırladığınız karışımdan tavaya dökün. Karışım yavaşça tavayı kaplayacaktır.
 - Üzerini bir kapakla örtün ve üst kısmı tamamen kuruyana kadar kısık ateşte pişirin.
