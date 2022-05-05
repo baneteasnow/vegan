@@ -1,5 +1,5 @@
 ---
-layout: vegan
+layout: books
 title: 'veganlıkla ilgili kitaplar'
 published: true
 ---
