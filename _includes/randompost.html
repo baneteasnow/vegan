@@ -1,0 +1,17 @@
+<script>
+  const comingFromPost = document.referrer; 
+
+  const allPosts = 
+    [{%- for post in site.posts -%}
+            {%- assign i = i | minus: 1 -%}
+            "{{ post.url }}.html"{%- unless i == 0 -%},{%- endunless -%}
+    {%- endfor -%}];
+
+  function linkToRandomBlogPost() {
+      const randomPostLink = allPosts[Math.floor(Math.random() * allPosts.length)];
+      return randomPostLink;
+  }
+
+  location.replace(linkToRandomBlogPost())
+</script>
+

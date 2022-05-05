@@ -1,0 +1,78 @@
+title: nonfictionbooks.xyz # name of the site
+author: nonfictionbooks.xyz # name of site's author
+url: https://vegan.nonfictionbooks.xyz # root address of the site
+baseurl: "/" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+description: > # description of the site (multiple lines allowed)
+  nonfictionbooks.xyz - vegan tarifler
+
+# set timezone
+timezone: Australia/Sydney
+markdown: kramdown
+permalink: :slug.html
+
+favicon: "/logo.png" # name+extension of favicon (which must be put on the root folder)
+
+remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please theme: no-style-please
+
+theme_config:
+  appearance: "light" # can be "light", "dark" or "auto"
+  back_home_text: "..." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted (%b %y - year month day)
+  show_description: false # show blog description in home page
+
+sass:
+  style: :compressed
+  
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  
+collections:
+  pages:
+    output: true
+    permalink: :slug.html
+  not-used:
+    output: true
+    permalink: :slug
+  drafts:
+    output: false
+# Defaults
+defaults:
+  # _posts
+  - 
+   scope:
+     path: ""
+     type: posts
+   values:
+     permalink: :slug
+     published: false
+      
+ # _pages
+  -
+   scope: 
+     path: ""
+     type: drafts
+   values:
+     published: false
+  -    
+   scope:
+     path: ""
+     type: pages
+   values:
+     layout: page-10    
+     published: false
+  -
+    scope:
+      path: ""
+    values:
+      layout: page-10
+      published: false
+      
+      # values:
+      # the default layout to use if none is specified layout: post
+      # published: true or false OR future OR unpublished
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  
