@@ -27,7 +27,7 @@ Notlar:
 - Kajuyu soğuk suda ıslatırsanız yumuşaması 2-3 saat alacaktır. Zaman kısıtınız varsa, sıcak su kullanarak bu süreyi 1 saate indirebilirsiniz.
 - Daha ekşimsi bir yoğurt için daha fazla limon suyu ekleyin.
 - Blenderınız ne kadar güçlüyse kajunun parçalanması o denli kolay olacaktır. (Veganlar için min 1000 w gücünde bir blender oldukça pratik kullanım sağlar.)
-- Yogurdunuzu buzdolabında 3-4 güne dek saklayabilirsiniz. Eğer sulanma olursa servis etmeden önce karıştırın.
-- Yogurdu blenderdan aldıktan sonra blenderın içinde az bir kısmını bırakarak üzerine daha fazla su ekleyebilir ve gene blenderınız yardımı ile ayrana dönüştürebilirsiniz.
+- Yoğurdunuzu buzdolabında 3-4 güne dek saklayabilirsiniz. Eğer sulanma olursa servis etmeden önce karıştırın.
+- Yoğurdu blenderdan aldıktan sonra blenderın içinde az bir kısmını bırakarak üzerine daha fazla su ekleyebilir ve gene blenderınız yardımı ile ayrana dönüştürebilirsiniz.
   
 <i>Afiyet olsun!</i>
