@@ -59,7 +59,7 @@ Hamurun hazırlanması
 - Harcın eşit yayılmasını sağlayın.
 - Şeritleri hamurun üzerine yerleştirin. Şeritlerden dikey ve yatay olanlara alt üst geçirerek sepet örgüsü yapabilirsiniz. Şeritlerin kalınlığını ve sıklığınızı arzunuza göre ayarlayın.
 - Turtanın üzerinin kızarması için bir yemek kaşığı pekmez ve iki kaşık suyu bir kapta karıştırarak üstüne sürün.
-- Önceden ısıtılmış 190 derece fırında 20-30 dakika pişirin.
+- Önceden ısıtılmış 190° fırında 20-30 dakika pişirin.
 - Turtanız oda sıcaklığına geldiğinde üzerine isteğinize göre pudra şekeri serpebilirsiniz.
 
 
