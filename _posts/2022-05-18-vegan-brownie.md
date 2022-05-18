@@ -1,0 +1,32 @@
+---
+layout: vegan  
+category: recipes  
+title: "Vegan Brownie"  
+eng: "Vegan Brownie"
+tag: "dessert"
+published: true
+---
+
+Malzemeler:
+- 2 su bardağı un
+- 2 su bardağı şeker
+- 1 çay kaşığı tuz
+- 1 paket vanilin
+- 1 paket hamur kabartma tozu
+- 50 gr kakao
+- 2 su bardağı su
+- 3/4 su bardağı zeytinyağı
+
+Yapılışı:
+- Un, şeker, tuz, hamur kabartma tozu, vanilin ve kakaoyu derin bir kapta karıştırın.
+- Üzerine su ve yağı ekleyin.
+- Bir çırpıcı veya mikser ile akışkan bir kıvam alana dek çırpın.
+- Fırın kabına veya brownie kalıbına bu karışımı dökün.
+- 180° önceden ısıtılmış fırında yaklaşık 15 dakika pişirin.
+
+
+Notlar:
+- Oda sıcaklığına gelmiş brownienin üzerine benmari usulü eritilmiş çikolata dökerek servis edebilirsiniz. 
+- Yoğun çikolata tadı için kekın içine ufak çikolata parçacıkları ekleyebilirsiniz.
+
+<i>Afiyet olsun!</i>
