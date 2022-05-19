@@ -1,7 +1,7 @@
 ---
 layout: vegan  
 category: recipes  
-title: "İrmik Helvası"  
+title: "Irmik Helvası"  
 eng: "Semolina halva"
 tag: "dessert"
 published: true
