@@ -1,7 +1,7 @@
 ---
 layout: vegan  
 category: recipes  
-title: "Kinoa Nasıl Pişer?"  
+title: "Kinoa Nasıl Pişirilir?"  
 eng: "Quinoa - How to cook"
 tag: "seed"
 published: true
