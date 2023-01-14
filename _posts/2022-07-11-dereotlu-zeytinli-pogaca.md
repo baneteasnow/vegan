@@ -16,7 +16,7 @@ Malzemeler:
 - 1 tatlı kaşığı mahlep (optional)
 - 1 tatlı kaşığı sirke
 - 1 çay kaşığı tuz
-- dereotu (ince kıyılmış)
+- dereotu (ince kıyılmış) veya kekik
 - zeytın (çeğirdeği çıkarılmış ve minik parçalara ayrılmış)
 - 1 çorba kaşığı pekmez + 2 çorba kaşığı su karışımı (üzeri için)
 
@@ -38,5 +38,6 @@ Yapılışı:
 
 Notlar:
 - Fırından aldığınız poğaçaların üstünü bir havlu ile örterek 15-20 dakika dinlendirirseniz, kurumalarını engellersiniz.
+- Dereotuna alternatif olarak kekik de kullanılabilir.
 
 <i>Afiyet olsun!</i>
