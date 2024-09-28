@@ -1,8 +1,8 @@
 ---
-# https://www.next52books.com/toc.html
+# https://vegan.next52books.com/toc.html
 layout: page-9
 published: true
-last_modified_at: 2021-07-29
+last_modified_at: 2024-09-28
 title: "Belgeseller"
 ---
 
