@@ -95,7 +95,7 @@ _İç Harcı için:_
 
 <i>Afiyet olsun!</i>
 
-#### [Halep Köfte](#halep-kofte)
+#### [Halep Kofte](#halep-kofte)
 
 {: #halep-kofte }
 
