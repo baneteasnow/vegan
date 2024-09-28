@@ -34,7 +34,7 @@ Notlar:
 
 <i>Afiyet olsun!</i>
 
-#### [Baharat Karışımı](#baharat-karisimi)
+#### [Baharat Karisimi](#baharat-karisimi)
 
 {: #baharat-karisimi }
 
