@@ -3,7 +3,7 @@
 layout: page-9
 published: true
 last_modified_at: 2024-09-28
-title: "Belgeseller"
+title: "Tarifler"
 ---
 
 {: #toc }
