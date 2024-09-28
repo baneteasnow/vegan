@@ -6,12 +6,7 @@ last_modified_at: 2024-09-28
 title: "Tarifler"
 ---
 
-{: #toc }
-
-- TOC
-  {:toc class="toc1"}
-
-#### [Vegan Sucuk](#vegan-sucuk)
+###### [Vegan Sucuk](#vegan-sucuk)
 
 {: #vegan-sucuk }
 
@@ -38,5 +33,3 @@ Notlar:
 - Pişmiş sucukları hemen tüketmeyecekseniz buzlukta saklayabilirsiniz.
 
 <i>Afiyet olsun!</i>
-
-<i>{%-include up.html-%}</i>
