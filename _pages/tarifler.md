@@ -11,7 +11,7 @@ title: "Tarifler"
 - TOC
   {:toc class="toc1"}
 
-#### [Vegan Sucuk)](#vegan-sucuk)
+#### [Vegan Sucuk](#vegan-sucuk)
 
 {: #vegan-sucuk }
 
