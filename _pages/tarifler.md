@@ -81,10 +81,6 @@ Hamuru için:
 - 1 çay kaşığı kırmızı biber
 - isteğe bağlı olarak soğan, maydonoz
 
-#### [Patatesli Pide](#patatesli-pide)
-
-{: #patatesli-pide }
-
 Yapılışı:
 
 - Un, tuz, şeker, kuru maya ve zeytinyağ derin bir kapta karıştırın. Ilık suyu azar azar ekleyin ve hamur toparlayana kadar yoğurun.
