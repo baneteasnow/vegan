@@ -14,7 +14,7 @@ title: "Vegan Tarifler"
 
 - Vegan köfte karışımı, soya köfte karışımı veya bezelye proteni
 - 5 kaşık zeytinyağı
-- [Baharat Karışımı](#baharat-karisimi)
+- **[Baharat Karışımı](#baharat-karisimi)**
 - 2-3 baş ezilmiş sarımsak
 - pişirme kağıdı
 
@@ -422,9 +422,9 @@ _Hamurun hazırlanması_
 
 <i>Afiyet olsun!</i>
 
-#### [Nohut Ekmegi](#nohut-ekmegi)
+#### [Nohut Omleti](#nohut-omleti)
 
-{: #nohut-ekmegi }
+{: #nohut-omleti }
 
 **Malzemeler:**
 
