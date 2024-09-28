@@ -2,20 +2,12 @@
 layout: null
 ---
 [
-  {% for item in site.data.samplelist.toc %}
-    {% for entry in item.subfolderitems %}
-      {
+  {% for item in site.data.recipes %}
+    {
+      
+      "title"      : "{{ item.title }}",
+      "url"        : "{{ item.url }}",
 
-        "title" : "{{ entry.page }}"
-
-      } 
-    {% unless forloop.last %},{% endunless %}
-    {% endfor %}
+    } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
-
-
-
-
-
-	
