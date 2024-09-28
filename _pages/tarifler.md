@@ -6,7 +6,7 @@ last_modified_at: 2024-09-28
 title: "Tarifler"
 ---
 
-###### [Vegan Sucuk](#vegan-sucuk)
+#### [Vegan Sucuk](#vegan-sucuk)
 
 {: #vegan-sucuk }
 
@@ -31,5 +31,29 @@ Yapılışı:
 Notlar:
 
 - Pişmiş sucukları hemen tüketmeyecekseniz buzlukta saklayabilirsiniz.
+
+<i>Afiyet olsun!</i>
+
+#### [Baharat Karışımı](#baharat-karisimi)
+
+{: #baharat-karisimi }
+
+Malzemeler:
+
+- 20 gr tuz
+- 20 gr kimyon
+- 20 gr kırmızı biber
+- 10 gr karabiber
+- 10 gr yenibahar
+- 10 gr tarçın
+
+Yapılışı:
+
+- Baharatlar belirtilen oranlarda karıştırılır.
+
+Notlar:
+
+- Vegan köfte, vegan sucuk veya çeşitli soslarda kullanılabilir.
+- Tarifte yer alan baharat ölçüsü 200-250 gram vegan köfte karışımı içindir.
 
 <i>Afiyet olsun!</i>
