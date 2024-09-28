@@ -3,10 +3,19 @@ layout: null
 ---
 [
   {% for item in site.data.samplelist.toc %}
-    {
+    {% for entry in item.subfolderitems %}
+      {
 
-      "title" : "{{ item.subfolderitems.page }}"
-      
-    } {% unless forloop.last %},{% endunless %}
+        "title" : "{{ entry.page }}"
+
+      } 
+    {% unless forloop.last %},{% endunless %}
+    {% endfor %}
   {% endfor %}
 ]
+
+
+
+
+
+	
