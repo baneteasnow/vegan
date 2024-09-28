@@ -14,7 +14,7 @@ Malzemeler:
 
 - Vegan köfte karışımı, soya köfte karışımı veya bezelye proteni
 - 5 kaşık zeytinyağı
-- [Baharat Karışımı]({: #baharat-karisimi })
+- [Baharat Karışımı](#baharat-karisimi)
 - 2-3 baş ezilmiş sarımsak
 - pişirme kağıdı
 
