@@ -1,7 +1,7 @@
 ---
-layout: affirmation  
-category: affirmation  
-title: ""  
-published: true
+layout: affirmation
+category: affirmation
+title: ""
+published: false
 tag: "affirmation"
 ---

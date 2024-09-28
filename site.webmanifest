@@ -1,29 +1,27 @@
-
 {
-  "name":"vegan.nonfictionbooks.xyz",
-  "short_name":"vegan tarifler",
-  "description":"nonfictionbooks.xyz - vegan tarifler",
-  "icons":[
-           {
-            "src":"https://vegan.nonfictionbooks.xyz/assets/images/android-chrome-192x192.png",
-            "sizes":"192x192",
-            "type":"image/png",
-            "purpose": "any maskable"
-             
-           },
-           {
-            "src":"https://vegan.nonfictionbooks.xyz/assets/images/android-chrome-512x512.png",
-            "sizes":"512x512",
-            "type":"image/png",
-            "purpose": "any maskable"
-           }
-          ],
-  "theme_color":"#ffffff",
-  "background_color":"#ffffff",
-  "display":"standalone",
-  "orientation": "natural",
-  "categories": [],
-  "start_url": "https://vegan.nonfictionbooks.xyz",
-  "shortcuts" : [],
-  "screenshots" : []
+	"name": "vegan.next52books.com",
+	"short_name": "vegan tarifler",
+	"description": "next52books.com - vegan tarifler",
+	"icons": [
+		{
+			"src": "https://vegan.next52books.com/assets/images/android-chrome-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "https://vegan.next52books.com/assets/images/android-chrome-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png",
+			"purpose": "any maskable"
+		}
+	],
+	"theme_color": "#ffffff",
+	"background_color": "#ffffff",
+	"display": "standalone",
+	"orientation": "natural",
+	"categories": [],
+	"start_url": "https://vegan.next52books.com",
+	"shortcuts": [],
+	"screenshots": []
 }
