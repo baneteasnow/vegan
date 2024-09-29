@@ -1,6 +1,6 @@
 ---
 layout: page-11
-title: ara
+title: tarif ara
 published: true
 ---
 
@@ -27,7 +27,7 @@ published: true
 
 <!-- Html Elements for Search -->
 <div id="search-container">
-<input type="text" id="search-input" placeholder="Search...">
+<input type="text" id="search-input" placeholder="Search a recipe...">
 <ol id="results-container"></ol>
 </div>
 
