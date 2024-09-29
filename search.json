@@ -6,7 +6,7 @@ layout: null
     {
       
       "title" : "{{ item.title }}",
-      "url"   : "{{ item.url }}"
+      "link"   : "{{ item.url }}"
 
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
