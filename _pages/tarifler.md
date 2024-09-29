@@ -988,9 +988,9 @@ _Hamurun hazırlanması_
 
 <i>Afiyet olsun!</i>
 
-#### [Falafel Sos](#falafel-sos)
+#### [Falafel Icin Sos](#falafel-icin-sos)
 
-{: #falafel-sos }
+{: #falafel-icin-sos }
 
 **Malzemeler:**
 
@@ -1351,6 +1351,42 @@ _Hamurun hazırlanması_
 #### [Mercimek Koftesi](#mercimek-koftesi)
 
 {: #mercimek-koftesi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Bezelye](#bezelye)
+
+{: #bezelye }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Yogurtlu Patlican Meze](#yogurtlu-patlican-meze)
+
+{: #yogurtlu-patlican-meze }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Yogurtlu Koz Biber Meze](#yogurtlu-koz-biber-meze)
+
+{: #yogurtlu-koz-biber-meze }
 
 **Malzemeler:**
 

@@ -21,4 +21,9 @@ title: "Vegan Tarifler"
 {% endfor %}
 
 <br />
+<!-- size -->
+{% assign recipe_data = site.data.recipes %} {% assign tarifler = recipe_data |
+size %}
+<!-- {{ }} -->
+{{ tarifler }}
 <br />

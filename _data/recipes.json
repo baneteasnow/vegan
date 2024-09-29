@@ -53,46 +53,317 @@
 	},
 	{
 		"title": "Hardal",
-		"url": ""
+		"url": "https://vegan.next52books.com/tarifler.html#hardal"
 	},
 	{
 		"title": "Humus",
-		"url": ""
+		"url": "https://vegan.next52books.com/tarifler.html#humus"
 	},
 	{
 		"title": "Kakao Cikolatali Sos",
-		"url": ""
+		"url": "https://vegan.next52books.com/tarifler.html#kakao-cikolatali-sos"
 	},
 	{
 		"title": "Piyaz",
-		"url": ""
+		"url": "https://vegan.next52books.com/tarifler.html#piyaz"
 	},
 	{
 		"title": "Kisir",
-		"url": ""
+		"url": "https://vegan.next52books.com/tarifler.html#kisir"
 	},
 	{
 		"title": "Patates Havuc Puresi",
-		"url": ""
+		"url": "https://vegan.next52books.com/tarifler.html#patates-havuc-puresi"
 	},
 	{
 		"title": "Vegan Kokorec",
-		"url": ""
+		"url": "https://vegan.next52books.com/tarifler.html#vegan-kokorec"
 	},
 	{
 		"title": "Mantar Sote",
-		"url": ""
+		"url": "https://vegan.next52books.com/tarifler.html#mantar-sote"
 	},
 	{
 		"title": "Menemen Sos",
-		"url": ""
+		"url": "https://vegan.next52books.com/tarifler.html#menemen-sos"
 	},
 	{
 		"title": "Domates Soslu Makarna",
-		"url": ""
+		"url": "https://vegan.next52books.com/tarifler.html#domates-soslu-makarna"
 	},
 	{
 		"title": "Bulgur Pilavi",
-		"url": ""
+		"url": "https://vegan.next52books.com/tarifler.html#bulgur-pilavi"
+	},
+	{
+		"title": "Vegan Kurabiye",
+		"url": "https://vegan.next52books.com/tarifler.html#vegan-kurabiye"
+	},
+	{
+		"title": "Kirmizi Mercimek Corbasi",
+		"url": "https://vegan.next52books.com/tarifler.html#kirmizi-mercimek-corbasi"
+	},
+	{
+		"title": "Yesil Mercimek Corbasi",
+		"url": "https://vegan.next52books.com/tarifler.html#yesil-mercimek-corbasi"
+	},
+	{
+		"title": "Ezogelin Corbasi",
+		"url": "https://vegan.next52books.com/tarifler.html#ezogelin-corbasi"
+	},
+	{
+		"title": "Mercimek Yemegi",
+		"url": "https://vegan.next52books.com/tarifler.html#mercimek-yemegi"
+	},
+	{
+		"title": "Lazanya",
+		"url": "https://vegan.next52books.com/tarifler.html#lazanya"
+	},
+	{
+		"title": "Vegan Tereyagi",
+		"url": "https://vegan.next52books.com/tarifler.html#vegan-tereyagi"
+	},
+	{
+		"title": "Gavurdag Salatasi",
+		"url": "https://vegan.next52books.com/tarifler.html#gavurdag-salatasi"
+	},
+	{
+		"title": "Kakao Spread",
+		"url": "https://vegan.next52books.com/tarifler.html#kakao-spread"
+	},
+	{
+		"title": "Tarhana Corbasi",
+		"url": "https://vegan.next52books.com/tarifler.html#tarhana-corbasi"
+	},
+	{
+		"title": "Vegan Toz Permasan Peynirimsi",
+		"url": "https://vegan.next52books.com/tarifler.html#vegan-toz-permasan-peynirimsi"
+	},
+	{
+		"title": "Vegan Mozzarella",
+		"url": "https://vegan.next52books.com/tarifler.html#vegan-mozarella"
+	},
+	{
+		"title": "Lavas Pizza",
+		"url": "https://vegan.next52books.com/tarifler.html#lavas-pide"
+	},
+	{
+		"title": "Soya Kiymali Pide Ici",
+		"url": "https://vegan.next52books.com/tarifler.html#soya-kiymali-pide-ici"
+	},
+	{
+		"title": "Ekmek Dilimi Pizzasi",
+		"url": "https://vegan.next52books.com/tarifler.html#ekmek-dilimi-pizzasi"
+	},
+	{
+		"title": "Morning Tonic",
+		"url": "https://vegan.next52books.com/tarifler.html#morning-tonic"
+	},
+	{
+		"title": "Domates Corbasi",
+		"url": "https://vegan.next52books.com/tarifler.html#domates-corbasi"
+	},
+	{
+		"title": "Arpa Sehriye Corbasi",
+		"url": "https://vegan.next52books.com/tarifler.html#arpa-sehriye-corbasi"
+	},
+	{
+		"title": "Chia Puding",
+		"url": "https://vegan.next52books.com/tarifler.html#chia-puding"
+	},
+	{
+		"title": "Zencefilli Yilbasi Kurabiyesi",
+		"url": "https://vegan.next52books.com/tarifler.html#zencefilli-yilbasi-kurabiyesi"
+	},
+	{
+		"title": "Fistik Ezmesi",
+		"url": "https://vegan.next52books.com/tarifler.html#fistik-ezmesi"
+	},
+	{
+		"title": "Kahvaltilik Salcali Sos",
+		"url": "https://vegan.next52books.com/tarifler.html#kahvaltilik-salcali-sos"
+	},
+	{
+		"title": "Banmalik Baharatli Zeytinyagi",
+		"url": "https://vegan.next52books.com/tarifler.html#banmalik-baharatli-zeytinyagi"
+	},
+	{
+		"title": "Avakado Ezme Sos",
+		"url": "https://vegan.next52books.com/tarifler.html#avakado-ezme-sos"
+	},
+	{
+		"title": "Tarcinli Kek",
+		"url": "https://vegan.next52books.com/tarifler.html#tarcinli-kek"
+	},
+	{
+		"title": "Ispanyol Omlet",
+		"url": "https://vegan.next52books.com/tarifler.html#ispanyol-omlet"
+	},
+	{
+		"title": "Borulce Salatasi",
+		"url": "https://vegan.next52books.com/tarifler.html#borulce-salatasi"
+	},
+	{
+		"title": "Yulaf Sinitzel",
+		"url": "https://vegan.next52books.com/tarifler.html#yulaf-sinitzel"
+	},
+	{
+		"title": "Vegan Krema",
+		"url": "https://vegan.next52books.com/tarifler.html#vegan-krema"
+	},
+	{
+		"title": "Domates Soslu Soyali Spagetti Makarna",
+		"url": "https://vegan.next52books.com/tarifler.html#domates-soslu-soyali-spagetti-makarna"
+	},
+	{
+		"title": "Kuskus",
+		"url": "https://vegan.next52books.com/tarifler.html#kuskus"
+	},
+	{
+		"title": "Bufalo Sos",
+		"url": "https://vegan.next52books.com/tarifler.html#bufalo-sos"
+	},
+	{
+		"title": "Kuru Domates Mezesi",
+		"url": "https://vegan.next52books.com/tarifler.html#kuru-domates-mezesi"
+	},
+	{
+		"title": "Falafel Icin Sos",
+		"url": "https://vegan.next52books.com/tarifler.html#falafel-icin-sos"
+	},
+	{
+		"title": "Nohut Durum",
+		"url": "https://vegan.next52books.com/tarifler.html#nohut-durum"
+	},
+	{
+		"title": "Airfryer Patates",
+		"url": "https://vegan.next52books.com/tarifler.html#airfryer-patates"
+	},
+	{
+		"title": "Lutenitsa",
+		"url": "https://vegan.next52books.com/tarifler.html#lutenitsa"
+	},
+	{
+		"title": "Yalanci Ketcap",
+		"url": "https://vegan.next52books.com/tarifler.html#yalanci-ketcpa"
+	},
+	{
+		"title": "Sosyete Mantisi",
+		"url": "https://vegan.next52books.com/tarifler.html#sosyete-mantisi"
+	},
+	{
+		"title": "Havuc Sosisi",
+		"url": "https://vegan.next52books.com/tarifler.html#havuc-sosisi"
+	},
+	{
+		"title": "Tarhana Koftesi",
+		"url": "https://vegan.next52books.com/tarifler.html#tarhana-koftesi"
+	},
+	{
+		"title": "Sebze Corbasi",
+		"url": "https://vegan.next52books.com/tarifler.html#sebze-corbasi"
+	},
+	{
+		"title": "Mucver",
+		"url": "https://vegan.next52books.com/tarifler.html#mucver"
+	},
+	{
+		"title": "Sebzeli Noodle",
+		"url": "https://vegan.next52books.com/tarifler.html#sebzeli-noodle"
+	},
+	{
+		"title": "Kirmizi Biber Baharatli Surmelik",
+		"url": "https://vegan.next52books.com/tarifler.html#kirmizi-biber-baharatli-surmelik"
+	},
+	{
+		"title": "Kuru Domates Corbasi",
+		"url": "https://vegan.next52books.com/tarifler.html#kuru-domates-corbasi"
+	},
+	{
+		"title": "Yalanci Kofte Kebap",
+		"url": "https://vegan.next52books.com/tarifler.html#yalanci-kofte-kebap"
+	},
+	{
+		"title": "Pesto Soslu Sebzeli Sandvic",
+		"url": "https://vegan.next52books.com/tarifler.html#pesto-soslu-sebzeli-sandvic"
+	},
+	{
+		"title": "Babagandus",
+		"url": "https://vegan.next52books.com/tarifler.html#babagandus"
+	},
+	{
+		"title": "Kabak Tatlisi",
+		"url": "https://vegan.next52books.com/tarifler.html#kabak-tatlisi"
+	},
+	{
+		"title": "Rus Salatasi",
+		"url": "https://vegan.next52books.com/tarifler.html#rus-salatasi"
+	},
+	{
+		"title": "Yulafli Vegan Toplar",
+		"url": "https://vegan.next52books.com/tarifler.html#yulafli-vegan-toplar"
+	},
+	{
+		"title": "Ot Kavurma",
+		"url": "https://vegan.next52books.com/tarifler.html#ot-kavurma"
+	},
+	{
+		"title": "Kuru Fasulye",
+		"url": "https://vegan.next52books.com/tarifler.html#kuru-fasulye"
+	},
+	{
+		"title": "Nohut Yemegi",
+		"url": "https://vegan.next52books.com/tarifler.html#nohut-yemegi"
+	},
+	{
+		"title": "Barbunya",
+		"url": "https://vegan.next52books.com/tarifler.html#barbunya"
+	},
+	{
+		"title": "Bamya",
+		"url": "https://vegan.next52books.com/tarifler.html#bamya"
+	},
+	{
+		"title": "Taze Fasulye",
+		"url": "https://vegan.next52books.com/tarifler.html#taze-fasulye"
+	},
+	{
+		"title": "Biber Dolmasi",
+		"url": "https://vegan.next52books.com/tarifler.html#biber-dolmasi"
+	},
+	{
+		"title": "Kuru Biber Asi",
+		"url": "https://vegan.next52books.com/tarifler.html#kuru-biber-asi"
+	},
+	{
+		"title": "Gul Boregi",
+		"url": "https://vegan.next52books.com/tarifler.html#gul-boregi"
+	},
+	{
+		"title": "Patates Salatasi",
+		"url": "https://vegan.next52books.com/tarifler.html#patates-salatasi"
+	},
+	{
+		"title": "Patates Koftesi",
+		"url": "https://vegan.next52books.com/tarifler.html#patates-koftesi"
+	},
+	{
+		"title": "Mercimek Koftesi",
+		"url": "https://vegan.next52books.com/tarifler.html#mercimek-koftesi"
+	},
+	{
+		"title": "Turlu",
+		"url": "https://vegan.next52books.com/tarifler.html#turlu"
+	},
+	{
+		"title": "Bezelye",
+		"url": "https://vegan.next52books.com/tarifler.html#bezelye"
+	},
+	{
+		"title": "Yogurtlu Patlican Meze",
+		"url": "https://vegan.next52books.com/tarifler.html#yogurtlu-patlican-meze"
+	}	{
+		"title": "Yogurtlu Koz Biber Meze",
+		"url": "https://vegan.next52books.com/tarifler.html#yogurtlu-koz-biber-meze"
 	}
 ]
