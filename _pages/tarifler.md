@@ -205,7 +205,7 @@ _Sosu için:_
 
 #### [Kinoa Nasil Pisirilir?](#kinoa-nasil-pisirilir)
 
-{: #kinoa }
+{: #kinoa-nasil-pisirilir }
 
 **Malzemeler:**
 
@@ -225,9 +225,9 @@ _Sosu için:_
 
 <i>Afiyet olsun!</i>
 
-#### [Dereotlu Peynirli Pogaca](#dereotlu-peynirli-pogaca)
+#### [Dereotlu Zeytinli Pogaca](#dereotlu-zeytinli-pogaca)
 
-{: #dereotlu-peynirli-pogaca }
+{: #dereotlu-zeytinli-pogaca }
 
 **Malzemeler:**
 
