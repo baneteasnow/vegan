@@ -177,11 +177,12 @@
 	}
 	!(function (t) {
 		var o = {
-			searchInput: null,
-			resultsContainer: null,
-			json: [],
-			success: Function.prototype,
-			searchResultTemplate: "<li><a href="{link}">{title}</a></li>",
+				searchInput: null,
+				resultsContainer: null,
+				json: [],
+				success: Function.prototype,
+				searchResultTemplate:
+					'<li><a href="{url}" title="{title}">{title}</a></li>',
 				templateMiddleware: Function.prototype,
 				sortMiddleware: function () {
 					return 0
