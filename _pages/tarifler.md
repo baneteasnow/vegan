@@ -38,7 +38,7 @@ title: "Vegan Tarifler"
 
 - Pişmiş sucukları hemen tüketmeyecekseniz buzlukta saklayabilirsiniz.
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Baharat Karisimi](#baharat-karisimi)
 
@@ -62,7 +62,7 @@ title: "Vegan Tarifler"
 - Vegan köfte, vegan sucuk veya çeşitli soslarda kullanılabilir.
 - Tarifte yer alan baharat ölçüsü 200-250 gram vegan köfte karışımı içindir.
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Patatesli Pide](#patatesli-pide)
 
@@ -99,7 +99,7 @@ _İç Harcı için:_
 
 - Patatesli harca alternatif olarak soya kıymalı harç kullanabilirsiniz.
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Halep Kofte](#halep-kofte)
 
@@ -141,7 +141,7 @@ _Sosu için:_
 
 - Sosa maydonoz, kekik gibi taze otları da ekleyebilirsiniz.
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Dondurma](#dondurma)
 
@@ -176,7 +176,7 @@ _Sosu için:_
 
 {: #yulaf-sutu }
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 **Malzemeler:**
 
@@ -201,7 +201,7 @@ _Sosu için:_
 - Yulaf sütü buzdolabında 3-4 güne kadar taze şekilde saklanabilir.
 - Yulaf sütü beklediği zaman homojen halini yitirebiliyor. Tekrar homojen olabilmesi için kullanmadan önce şişeyi sallayarak karıştırın.
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Kinoa Nasil Pisirilir?](#kinoa-nasil-pisirilir)
 
@@ -223,7 +223,7 @@ _Sosu için:_
 
 - Kinoalar piştiğinde suyu çekmiş olur ve şişerek ara ara beyazlara sahip bir görüntüye kavuşurlar.
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Dereotlu Zeytinli Pogaca](#dereotlu-zeytinli-pogaca)
 
@@ -265,7 +265,7 @@ _Süslemek için:_
 - Fırından aldığınız poğaçaların üstünü bir havlu ile örterek 15-20 dakika dinlendirirseniz, kurumalarını engellersiniz.
 - Dereotuna alternatif olarak kekik de kullanılabilir.
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Irmik Helvasi](#irmik-helvasi)
 
@@ -293,7 +293,7 @@ _Süslemek için:_
 
 - Dondurma veya tarçın ile süsleyerek servis edebilirsiniz.
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Brownie](#brownie)
 
@@ -323,7 +323,7 @@ _Süslemek için:_
 - Oda sıcaklığına gelmiş brownienin üzerine benmari usulü eritilmiş çikolata dökerek servis edebilirsiniz.
 - Yoğun çikolata tadı için kekın içine ufak çikolata parçacıkları ekleyebilirsiniz.
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Elmali Turta](#elmali-turta)
 
@@ -394,7 +394,7 @@ _Hamurun hazırlanması_
 
 - Pudra şekerini serperken bir elek kullanabilirsiniz.
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Kaju Yogurdu](#kaju-yogurdu)
 
@@ -426,7 +426,7 @@ _Hamurun hazırlanması_
 - Yoğurdunuzu buzdolabında 3-4 güne dek saklayabilirsiniz. Eğer sulanma olursa servis etmeden önce karıştırın.
 - Yoğurdu blenderdan aldıktan sonra blenderın içinde az bir kısmını bırakarak üzerine daha fazla su ekleyebilir ve gene blenderınız yardımı ile ayrana dönüştürebilirsiniz.
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Nohut Omleti](#nohut-omleti)
 
@@ -458,7 +458,7 @@ _Hamurun hazırlanması_
 - Aynı karışıma maydonoz veya tercihe göre önceden pişirilmiş mantar ekleyerek yapabilirsiniz.
 - Eğer tavanız teflon değilse, karışıma 1 yemek kaşığı yağ eklemeyi ve yapışmayı engellemek için her seferinde tavayı tekrar yağlamayı unutmayın.
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Hardal](#hardal)
 
@@ -470,7 +470,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Humus](#humus)
 
@@ -482,7 +482,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Kakao Cikolatali Sos](#kakao-cikolatali-sos)
 
@@ -494,7 +494,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Piyaz](#piyaz)
 
@@ -506,7 +506,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Kisir](#kisir)
 
@@ -518,7 +518,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Patates Havuc Puresi](#patates-havuc-puresi)
 
@@ -530,7 +530,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Vegan Kokorec](#vegan-kokorec)
 
@@ -542,7 +542,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Mantarli Sebze Sote](#mantarli-sebze-sote)
 
@@ -554,7 +554,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Menemen Sos](#menemen-sos)
 
@@ -566,7 +566,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Domates Soslu Makarna](#domates-soslu-makarna)
 
@@ -578,7 +578,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Bulgur Pilavi](#bulgur-pilavi)
 
@@ -590,7 +590,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Vegan Kurabiye](#vegan-kurabiye)
 
@@ -602,7 +602,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Kirmizi Mercimek Corbasi](#kirmizi-mercimek-corbasi)
 
@@ -614,7 +614,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Yesil Mercimek Corbasi](#yesil-mercimek-corbasi)
 
@@ -626,7 +626,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Ezogelin Corbasi](#ezogelin-corbasi)
 
@@ -638,7 +638,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Mercimek Yemegi](#mercimek-yemegi)
 
@@ -650,7 +650,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Lazanya](#lazanya)
 
@@ -662,7 +662,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Vegan Terayagi](#vegan-terayagi)
 
@@ -674,7 +674,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Gavurdag Salatasi](#gavurdag-salatasi)
 
@@ -686,7 +686,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Kakao Spread](#kakao-spread)
 
@@ -698,7 +698,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Tarhana Corbasi](#tarhana-corbasi)
 
@@ -710,7 +710,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Vegan Toz Permasan Peynirimsi](#vegan-toz-permasan-peynirimsi)
 
@@ -722,7 +722,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Vegan Mozzarella](#vegan-mozzarella)
 
@@ -734,7 +734,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Lavas Pizza](#lavas-pizza)
 
@@ -746,7 +746,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Soya Kiymali Pide Ici](#soya-kiymali-pide-ici)
 
@@ -758,7 +758,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Ekmek Dilimi Pizzasi](#ekmek-dilimi-pizzasi)
 
@@ -770,7 +770,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Morning Tonic](#morning-tonic)
 
@@ -782,7 +782,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Domates Corbasi](#domates-corbasi)
 
@@ -794,7 +794,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Arpa Sehriye Corbasi](#arpa-sehriye-corbasi)
 
@@ -806,7 +806,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Chia Puding](#chia-puding)
 
@@ -818,7 +818,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Zencefilli Yilbasi Kurabiyesi](#zencefilli-yilbasi-kurabiyesi)
 
@@ -830,7 +830,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Fistik Ezmesi](#fistik-ezmesi)
 
@@ -842,7 +842,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Kahvaltilik Salcali Sos](#kahvaltilik-salcali-sos)
 
@@ -854,7 +854,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Banmalik Baharatli Zeytinyagi](#banmalik-baharatli-zeytinyagi)
 
@@ -866,7 +866,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Avakado Ezme Sos](#avakado-ezme-sos)
 
@@ -878,7 +878,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Tarcinli Kek](#tarcinli-kek)
 
@@ -890,7 +890,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Ispanyol Omlet](#ispanyol-omlet)
 
@@ -902,7 +902,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Borulce Salatasi](#borulce-salatasi)
 
@@ -914,7 +914,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Yulaf Sinitzel](#yulaf-sinitzel)
 
@@ -926,7 +926,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Vegan Krema](#vegan-krema)
 
@@ -938,7 +938,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Domates Soslu Soyali Spagetti Makarna](#hardal)
 
@@ -950,7 +950,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Kuskus](#kuskus)
 
@@ -962,7 +962,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Bufalo Sos](#bufalo-sos)
 
@@ -974,7 +974,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Kuru Domates Mezesi](#kuru-domates-mezesi)
 
@@ -986,7 +986,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Falafel Icin Sos](#falafel-icin-sos)
 
@@ -998,7 +998,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Nohut Durum](#nohut-durum)
 
@@ -1010,7 +1010,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Airfryer Patates](#airfryer-patates)
 
@@ -1022,7 +1022,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Lutenitsa](#lutenitsa)
 
@@ -1034,7 +1034,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Yalanci Ketcap](#yalanci-ketcap)
 
@@ -1046,7 +1046,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Sosyete Mantisi](#sosyete-mantisi)
 
@@ -1058,7 +1058,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Havuc Sosis](#havuc-sosis)
 
@@ -1070,7 +1070,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Tarhana Koftesi](#tarhana-koftesi)
 
@@ -1082,7 +1082,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Sebze Corbasi](#sebze-corbasi)
 
@@ -1094,7 +1094,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Mucver](#mucver)
 
@@ -1106,7 +1106,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Sebzeli Noodle](#sebzeli-noodle)
 
@@ -1118,7 +1118,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Kirmizi Biber Baharatli Surmelik](#kirmizi-biber-baharatli-surmelik)
 
@@ -1130,7 +1130,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Kuru Domates Corbasi](#kuru-domates-corbasi)
 
@@ -1142,7 +1142,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Yalanci Kofte Kebap](#yalanci-kofte-kebap)
 
@@ -1154,7 +1154,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Pesto Soslu Sebzeli Sandvic](#pesto-soslu-sandvic)
 
@@ -1166,7 +1166,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Babagandus](#babagandus)
 
@@ -1178,7 +1178,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Kabak Tatlisi](#kabak-tatlisi)
 
@@ -1190,7 +1190,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Rus Salatasi](#rus-salatasi)
 
@@ -1202,7 +1202,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Yulafli Vegan Toplar](#yulafli-vegan-toplar)
 
@@ -1214,7 +1214,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Ot Kavurma](#ot-kavurma)
 
@@ -1226,7 +1226,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Kuru Fasulye](#kuru-fasulye)
 
@@ -1238,7 +1238,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Nohut Yemegi](#nohut-yemegi)
 
@@ -1250,7 +1250,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Barbunya](#barbunya)
 
@@ -1262,7 +1262,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Bamya](#bamya)
 
@@ -1274,7 +1274,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Taze Fasulye](#taze-fasulye)
 
@@ -1286,7 +1286,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Biber Dolmasi](#biber-dolmasi)
 
@@ -1298,7 +1298,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Kuru Biber Asi](#kuru-biber-asi)
 
@@ -1310,7 +1310,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Gul Boregi](#gul-boregi)
 
@@ -1322,7 +1322,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Patates Salatasi](#patates-salatasi)
 
@@ -1334,7 +1334,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Patataes Koftesi](#patates-koftesi)
 
@@ -1346,7 +1346,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Mercimek Koftesi](#mercimek-koftesi)
 
@@ -1358,7 +1358,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Bezelye](#bezelye)
 
@@ -1370,7 +1370,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Yogurtlu Patlican Meze](#yogurtlu-patlican-meze)
 
@@ -1382,7 +1382,7 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 #### [Yogurtlu Koz Biber Meze](#yogurtlu-koz-biber-meze)
 
@@ -1394,6 +1394,6 @@ _Hamurun hazırlanması_
 
 **Notlar:**
 
-<i>Afiyet olsun!</i>
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 <br />
