@@ -1324,3 +1324,38 @@ _Hamurun hazırlanması_
 
 <i>Afiyet olsun!</i>
 
+#### [Patates Salatasi](#patates-salatasi)
+
+{: #patates-salatasi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Patataes Koftesi](#patates-koftesi)
+
+{: #patates-koftesi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Mercimek Koftesi](#mercimek-koftesi)
+
+{: #mercimek-koftesi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
