@@ -459,3 +459,411 @@ _Hamurun hazırlanması_
 - Eğer tavanız teflon değilse, karışıma 1 yemek kaşığı yağ eklemeyi ve yapışmayı engellemek için her seferinde tavayı tekrar yağlamayı unutmayın.
 
 <i>Afiyet olsun!</i>
+
+#### [Hardal](#hardal)
+
+{: #hardal }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Humus](#humus)
+
+{: #humus }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Kakao Cikolatali Sos](#kakao-cikolatali-sos)
+
+{: #kakao-cikolatali-sos }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Piyaz](#piyaz)
+
+{: #piyaz }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Kisir](#kisir)
+
+{: #kisir }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Patates Havuc Puresi](#patates-havuc-puresi)
+
+{: #patates-havuc-puresi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Vegan Kokorec](#vegan-kokorec)
+
+{: #vegan-kokorec }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Mantar Sote](#mantar-sote)
+
+{: #mantar-sote }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Menemen Sos](#menemen-sos)
+
+{: #menemen-sos }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Domates Soslu Makarna](#domates-soslu-makarna)
+
+{: #domates-soslu-makarna }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Bulgur Pilavi](#bulgur-pilavi)
+
+{: #bulgur-pilavi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Vegan Kurabiye](#vegan-kurabiye)
+
+{: #vegan-kurabiye }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Kirmizi Mercimek Corbasi](#kirmizi-mercimek-corbasi)
+
+{: #kirmizi-mercimek-corbasi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Yesil Mercimek Corbasi](#yesil-mercimek-corbasi)
+
+{: #yesil-mercimek-corbasi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Ezogelin Corbasi](#ezogelin-corbasi)
+
+{: #ezogelin-corbasi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Mercimek Yemegi](#mercimek-yemegi)
+
+{: #mercimek-yemegi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Lazanya](#lazanya)
+
+{: #lazanya }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Vegan Terayagi](#vegan-terayagi)
+
+{: #vegan-terayagi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Gavurdag Salatasi](#gavurdag-salatasi)
+
+{: #gavurdag-salatasi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Kakao Spread](#kakao-spread)
+
+{: #kakao-spread }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Tarhana Corbasi](#tarhana-corbasi)
+
+{: #tarhana-corbasi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Vegan Toz Permasan Peynirimsi](#vegan-toz-permasan-peynirimsi)
+
+{: #vegan-toz-permasan-peynirimsi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Vegan Mozzarella](#vegan-mozzarella)
+
+{: #vegan-mozzarella }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Lavas Pizza](#lavas-pizza)
+
+{: #lavas-pizza }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Soya Kiymali Pide Ici](#soya-kiymali-pide-ici)
+
+{: #soya-kiymali-pide-ici }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Ekmek Dilimi Pizzasi](#ekmek-dilimi-pizzasi)
+
+{: #ekmek-dilimi-pizzasi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Morning Tonic](#morning-tonic)
+
+{: #morning-tonic }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Domates Corbasi](#domates-corbasi)
+
+{: #domates-corbasi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Arpa Sehriye Corbasi](#arpa-sehriye-corbasi)
+
+{: #arpa-sehriye-corbasi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Chia Puding](#chia-puding)
+
+{: #chia-puding }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Zencefilli Yilbasi Kurabiyesi](#yilbasi-kurabiyesi)
+
+{: #yilbasi-kurabiyesi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Fistik Ezmesi](#fistik-ezmesi)
+
+{: #fistik-ezmesi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Kahvaltilik Salcali Sos](#kahvaltilik-salcali-sos)
+
+{: #kahvaltilik-salcali-sos }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Banmalik Bahratli Zeytinyagi](#banmalik-zeytinyagi)
+
+{: #banmalik-zeytinyagi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
