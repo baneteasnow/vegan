@@ -544,9 +544,9 @@ _Hamurun hazırlanması_
 
 <i>Afiyet olsun!</i>
 
-#### [Mantar Sote](#mantar-sote)
+#### [Mantarli Sebze Sote](#mantarli-sebze-sote)
 
-{: #mantar-sote }
+{: #mantarli-sebze-sote }
 
 **Malzemeler:**
 
@@ -822,7 +822,7 @@ _Hamurun hazırlanması_
 
 #### [Zencefilli Yilbasi Kurabiyesi](#zencefilli-yilbasi-kurabiyesi)
 
-{: #yilbasi-kurabiyesi }
+{: #zencefilli-yilbasi-kurabiyesi }
 
 **Malzemeler:**
 
@@ -856,9 +856,9 @@ _Hamurun hazırlanması_
 
 <i>Afiyet olsun!</i>
 
-#### [Banmalik Bahratli Zeytinyagi](#banmalik-zeytinyagi)
+#### [Banmalik Baharatli Zeytinyagi](#banmalik-baharatli-zeytinyagi)
 
-{: #banmalik-zeytinyagi }
+{: #banmalik-baharatli-zeytinyagi }
 
 **Malzemeler:**
 
@@ -903,3 +903,424 @@ _Hamurun hazırlanması_
 **Notlar:**
 
 <i>Afiyet olsun!</i>
+
+#### [Borulce Salatasi](#borulce-salatasi)
+
+{: #borulce-salatasi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Yulaf Sinitzel](#yulaf-sinitzel)
+
+{: #yulaf-sinitzel }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Vegan Krema](#vegan-krema)
+
+{: #vegan-krema }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Domates Soslu Soyali Spagetti Makarna](#hardal)
+
+{: #hardal }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Kuskus](#kuskus)
+
+{: #kuskus }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Bufalo Sos](#bufalo-sos)
+
+{: #bufalo-sos }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Kuru Domates Mezesi](#kuru-domates-mezesi)
+
+{: #kuru-domates-mezesi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Falafel Sos](#falafel-sos)
+
+{: #falafel-sos }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Nohut Durum](#nohut-durum)
+
+{: #nohut-durum }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Airfryer Patates](#airfryer-patates)
+
+{: #airfryer-patates }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Lutenitsa](#lutenitsa)
+
+{: #lutenitsa }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Yalanci Ketcap](#yalanci-ketcap)
+
+{: #yalanci-ketcap }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Sosyete Mantisi](#sosyete-mantisi)
+
+{: #sosyete-mantisi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Havuc Sosis](#havuc-sosis)
+
+{: #havuc-sosis }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Tarhana Koftesi](#tarhana-koftesi)
+
+{: #tarhana-koftesi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Sebze Corbasi](#sebze-corbasi)
+
+{: #sebze-corbasi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Mucver](#mucver)
+
+{: #mucver }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Sebzeli Noodle](#sebzeli-noodle)
+
+{: #sebzeli-noodle }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Kirmizi Biber Baharatli Surmelik](#kirmizi-biber-baharatli-surmelik)
+
+{: #kirmizi-biber-baharatli-surmelik }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Kuru Domates Corbasi](#kuru-domates-corbasi)
+
+{: #kuru-domates-corbasi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Yalanci Kofte Kebap](#yalanci-kofte-kebap)
+
+{: #yalanci-kofte-kebap }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Pesto Soslu Sebzeli Sandvic](#pesto-soslu-sandvic)
+
+{: #pesto-soslu-sandvic }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Babagandus](#babagandus)
+
+{: #babagandus }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Kabak Tatlisi](#kabak-tatlisi)
+
+{: #kabak-tatlisi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Rus Salatasi](#rus-salatasi)
+
+{: #rus-salatasi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Yulafli Vegan Toplar](#yulafli-vegan-toplar)
+
+{: #yulafli-vegan-toplar }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Ot Kavurma](#ot-kavurma)
+
+{: #ot-kavurma }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Kuru Fasulye](#kuru-fasulye)
+
+{: #kuru-fasulye }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Nohut Yemegi](#nohut-yemegi)
+
+{: #nohut-yemegi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Barbunya](#barbunya)
+
+{: #barbunya }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Bamya](#bamya)
+
+{: #bamya }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Taze Fasulye](#taze-fasulye)
+
+{: #taze-fasulye }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Biber Dolmasi](#biber-dolmasi)
+
+{: #biber-dolmasi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Kuru Biber Asi](#kuru-biber-asi)
+
+{: #kuru-biber-asi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Gul Boregi](#gul-boregi)
+
+{: #gul-boregi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
