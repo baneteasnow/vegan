@@ -203,7 +203,7 @@ _Sosu için:_
 
 <i>Afiyet olsun!</i>
 
-#### [Kinoa Nasil Pisirilir?](#kinoa)
+#### [Kinoa Nasil Pisirilir?](#kinoa-nasil-pisirilir)
 
 {: #kinoa }
 
