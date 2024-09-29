@@ -19,3 +19,9 @@ title: "Vegan Tarifler"
 	{% endfor %}
 </div>
 {% endfor %}
+<br />
+{% assign recipe_data = site.data.recipes %} {% assign tarifler = recipe_data |
+size %}
+<i>{{ tarifler }} tarif</i>
+
+<br />

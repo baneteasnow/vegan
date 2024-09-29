@@ -1397,9 +1397,3 @@ _Hamurun hazırlanması_
 <i>Afiyet olsun!</i>
 
 <br />
-
-{% assign recipe_data = site.data.recipes %} {% assign tarifler = recipe_data |
-size %}
-
-{{ tarifler }}
-<br />

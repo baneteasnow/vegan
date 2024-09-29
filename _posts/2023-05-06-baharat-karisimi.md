@@ -1,10 +1,10 @@
 ---
-layout: vegan  
-category: recipes  
-title: "Baharat Karışımı"  
+layout: vegan
+category: recipes
+title: "Baharat Karışımı"
 eng: ""
 -tag: "baharat"
-published: true
+published: false
 ---
 
 Malzemeler:
@@ -17,10 +17,11 @@ Malzemeler:
 - 10 gr tarçın
 
 Yapılışı:
+
 - Baharatlar belirtilen oranlarda karıştırılır.
 
-
 Notlar:
+
 - Vegan köfte, vegan sucuk veya çeşitli soslarda kullanılabilir.
 - Tarifte yer alan baharat ölçüsü 200-250 gram vegan köfte karışımı içindir.
 
