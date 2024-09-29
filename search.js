@@ -181,7 +181,8 @@
 				resultsContainer: null,
 				json: [],
 				success: Function.prototype,
-				searchResultTemplate: "{title}",
+				searchResultTemplate:
+					'<div style="text-transform: lowercase"><li><a href="{url}" title="{title}">{title}</li></div>',
 				templateMiddleware: Function.prototype,
 				sortMiddleware: function () {
 					return 0
