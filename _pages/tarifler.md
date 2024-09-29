@@ -820,7 +820,7 @@ _Hamurun hazırlanması_
 
 <i>Afiyet olsun!</i>
 
-#### [Zencefilli Yilbasi Kurabiyesi](#yilbasi-kurabiyesi)
+#### [Zencefilli Yilbasi Kurabiyesi](#zencefilli-yilbasi-kurabiyesi)
 
 {: #yilbasi-kurabiyesi }
 
@@ -859,6 +859,42 @@ _Hamurun hazırlanması_
 #### [Banmalik Bahratli Zeytinyagi](#banmalik-zeytinyagi)
 
 {: #banmalik-zeytinyagi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Avakado Ezme Sos](#avakado-ezme-sos)
+
+{: #avakado-ezme-sos }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Tarcinli Kek](#tarcinli-kek)
+
+{: #tarcinli-kek }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i>Afiyet olsun!</i>
+
+#### [Ispanyol Omlet](#ispanyol-omlet)
+
+{: #ispanyol-omlet }
 
 **Malzemeler:**
 
