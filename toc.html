@@ -2,21 +2,17 @@
 # /_data/samplelist.yml
 layout: page-6
 published: true
-last_modified_at: 2023-01-25
+last_modified_at: 2024-09-29
 title: "Vegan Tarifler"
 ---
 
 {% for item in site.data.samplelist.toc %}
 <br />
-<div>
-	{% for entry in item.subfolderitems %}
-	<div
-		class="decorated"
-		style="font-size: 85%"
-	>
-		<i>{{ entry.page }}</i>
-	</div>
-	{% endfor %}
+<div
+	class="decorated"
+	style="font-size: 85%"
+>
+	<i>{{ entry.page }}</i>
 </div>
 {% endfor %}
 <br />
