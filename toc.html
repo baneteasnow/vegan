@@ -8,11 +8,10 @@ title: "Vegan Tarifler"
 
 {% for item in site.data.recipes %}
 <br />
-<div
-	class="decorated"
-	style="font-size: 85%"
->
-	<i>{{ item.title }}</i>
+<div>
+	<i>
+		<a href="{{ item.url }}">{{ item.title }}</a>
+	</i>
 </div>
 {% endfor %}
 <br />
