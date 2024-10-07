@@ -1411,3 +1411,17 @@ _Hamurun hazırlanması_
 <i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 <br />
+
+#### [Zeytin Ezmesi](#zeytin-ezmesi)
+
+{: #zzeytin-ezmesi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
+
+<br />
