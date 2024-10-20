@@ -1414,7 +1414,77 @@ _Hamurun hazırlanması_
 
 #### [Zeytin Ezmesi](#zeytin-ezmesi)
 
-{: #zzeytin-ezmesi }
+{: #zeytin-ezmesi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
+
+<br />
+
+#### [Patates Yemegi](#patates-yemegi)
+
+{: #patates-yemegi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
+
+<br />
+
+#### [Karisik Salata](#karisik-salata)
+
+{: #karisik-salata }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
+
+<br />
+
+#### [Coban Salata](#coban-salata)
+
+{: #coban-salata }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
+
+<br />
+
+#### [Salata Baharat Karisimi](#salata-baharat-karisimi)
+
+{: #salata-baharat-karisimi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
+
+<br />
+
+#### [Makarna Baharat Karisimi](#makarna-baharat-karisimi)
+
+{: #makarna-baharat-karisimi }
 
 **Malzemeler:**
 
