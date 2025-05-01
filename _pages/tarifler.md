@@ -8,7 +8,7 @@
 # <i>Afiyet olsun!</i>
 layout: page-9
 published: true
-last_modified_at: 2024-09-28
+last_modified_at: 2025-05-01
 title: "Vegan Tarifler"
 ---
 
@@ -1499,6 +1499,20 @@ _Hamurun hazırlanması_
 #### [Tahinli Kurabiye](#tahinli-kurabiye)
 
 {: #tahinli-kurabiye }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
+
+<br />
+
+#### [Tapenade](#tapenade)
+
+{: #tapenade }
 
 **Malzemeler:**
 
