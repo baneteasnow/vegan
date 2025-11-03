@@ -1551,3 +1551,17 @@ _Hamurun hazırlanması_
 <i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 <br />
+
+#### [Roti Chapati](#tabule-salatasi)
+
+{: #tabule-salatasi }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+**Notlar:**
+
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
+
+<br />
