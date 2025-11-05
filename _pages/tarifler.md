@@ -1565,3 +1565,19 @@ _Hamurun hazırlanması_
 <i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
 
 <br />
+
+#### [Airfryer Kestane](#airfryer-kestane)
+
+{: #airfryer-kestane }
+
+**Malzemeler:**
+
+**Yapılışı:**
+
+- 190 derece 14 dk
+
+**Notlar:**
+
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
+
+<br />
