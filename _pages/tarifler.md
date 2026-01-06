@@ -1552,7 +1552,7 @@ _Hamurun hazırlanması_
 
 <br />
 
-#### [Roti Chapati](#tabule-salatasi)
+#### [Tabule Salatasi](#tabule-salatasi)
 
 {: #tabule-salatasi }
 
@@ -1575,6 +1575,20 @@ _Hamurun hazırlanması_
 **Yapılışı:**
 
 - 190 derece 14 dk
+
+**Notlar:**
+
+<i><a href="https://vegan.next52books.com/toc.html">Afiyet olsun!</a></i>
+
+<br />
+
+#### [Bal Kabagi Helvasi](#bal-kabagi-helvasi)
+
+{: #bal-kabagi-helvasi }
+
+**Malzemeler:**
+
+**Yapılışı:**
 
 **Notlar:**
 
